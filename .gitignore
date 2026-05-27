@@ -1,0 +1,14 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (JAMAIS versionner .env)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+.DS_Store
+
+# Build
+dist/
