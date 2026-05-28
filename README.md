@@ -1,5 +1,10 @@
 # SkillHub API — starter EC06
 
+![CI](https://github.com/ClubEpice/EC06_blanc/actions/workflows/ci.yml/badge.svg)
+![Node](https://img.shields.io/badge/node-20-brightgreen)
+![pnpm](https://img.shields.io/badge/pnpm-10-orange)
+![Docker](https://img.shields.io/badge/docker-multistage-blue)
+
 Mini API Express (Node.js 20) qui sert de base à l'épreuve EC06.
 
 ## Endpoints
